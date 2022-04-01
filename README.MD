@@ -50,9 +50,7 @@ NoSpray
 <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"></img>
 <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"></img>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-Mapbox%20-red?style=flat"></img>
-<img src="https://img.shields.io/badge/-Geojson%20-green?style=flat"></img>
-
+<img src="https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white"></img>
 </td>
 <td>
 <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"></img>
@@ -73,10 +71,7 @@ NoSpray
 
 <tr>
 <td>
-Created a map for viewing country borders throughout history. Integrated with Mapbox and React Globe. Over 100 stars on Github.
-
-<a href="https://www.reddit.com/r/dataisbeautiful/comments/l52krh/an_app_i_made_for_visualizing_country_borders/">29k Upvotes on Reddit</a>
-
+  Built an application for connecting FAANG employees with potential candidates. When an application for a job is submitted via an employee referal, the candidate is significantly more likely to land an interview. If the interview leads to accepting an offer, the emplyoyee can denefit with a referal bonus.
 </td>
   <td>
 Developed a Full-Stack decentralized application which uses a deployed ERC721 smart contract to create NFT’s which store image files in webP format.
