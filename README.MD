@@ -23,8 +23,8 @@ I am a Software Engineer at TrialSpark and Freelance developer.
 </a>
 </td>
 <td>
-<a href="https://nospray.us">
-<img src="https://i.imgur.com/PUvEiv8.png">
+<a href="https://historicborders.app">
+<img src="https://i.imgur.com/yDcFDvT.png">
 </img>
 </a>
 </td>
@@ -39,8 +39,8 @@ DeArt
 </a>
 </td>
 <td>
-<a href="https://github.com/albatross-apps/pest-ui">
-NoSpray
+<a href="https://github.com/nrgapple/historicborders-blitz">
+  Historic Borders
 </a>
 </td>
 </tr>
@@ -62,10 +62,10 @@ NoSpray
 </td>
 <td>
 <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"></img>
+<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"></img>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-Stripe-blue?style=flat"></img>
 <img src="https://img.shields.io/badge/-Mapbox%20-red?style=flat"></img>
+<img src="https://img.shields.io/badge/-Geojson%20-green?style=flat"></img>
 </td>
 </tr>
 
@@ -77,7 +77,8 @@ NoSpray
 Developed a Full-Stack decentralized application which uses a deployed ERC721 smart contract to create NFT’s which store image files in webP format.
 </td>
 <td>
-Created a fully functional React PWA for licensed pesticide sprayers to see where sensitive individuals are to maintain a safe distance. Integrated with Mapbox for feature data. Integrated with Stripe for User's subscriptions.
+Created a map for viewing country borders throughout history. Integrated with Mapbox and React Globe. Over 100 stars on Github.
+<a href="https://www.reddit.com/r/dataisbeautiful/comments/l52krh/an_app_i_made_for_visualizing_country_borders/">29k Upvotes on Reddit</a>
 </td>
 </tr>
 </table>
