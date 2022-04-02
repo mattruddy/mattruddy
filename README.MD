@@ -54,8 +54,8 @@ Referican
   Built an application for connecting FAANG employees with potential candidates. Referican is a full fledge social media platform with real time chat, job posting feed, rating system and company verification. It's an unbios way to refer candidates as the names are hashed and private until the resume handoff.
 </td>
 <td>
-Engineered a map for viewing country borders throughout history. Integrated with Mapbox and React Globe. Over 100 stars on Github. (Currently working on migrating this over to Blitz.js)
-<a href="https://www.reddit.com/r/dataisbeautiful/comments/l52krh/an_app_i_made_for_visualizing_country_borders/">29k Upvotes on Reddit</a>
+Engineered a map for viewing country borders throughout history. Integrated with Mapbox and React Globe. Over 100 stars on Github. <a href="https://www.reddit.com/r/dataisbeautiful/comments/l52krh/an_app_i_made_for_visualizing_country_borders/">29k Upvotes on Reddit</a>.
+ <strong>Currently working on migrating this over to Blitz.js to allow users to sign up and edit the map</strong>.
 </td>
 </tr>
   <td>
