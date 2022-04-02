@@ -73,7 +73,7 @@ DeArt
 
 <tr>
 <td>
-  Built an application for connecting FAANG employees with potential candidates. When an application for a job is submitted via an employee referal, the candidate is significantly more likely to land an interview. If the interview leads to accepting an offer, the emplyoyee can denefit with a referal bonus.
+  Built an application for connecting FAANG employees with potential candidates. Referican is a full fledge social media platform with real time chat, job posting feed, rating system and company verification. It's a unanimous way to refer candidates as the names are hashed and private until the resume handoff.
 </td>
   <td>
 Developed a Full-Stack decentralized application which uses a deployed ERC721 smart contract to create NFT’s which store image files in webP format.
