@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/matthew-r-452860179/"><img src="https://img.shields.io/badge/LinkedIn-mattruddy-0077B5?style=flat&logo=linkedin&logoColor=white"></img></a>
 
-I am a Software Engineer at TrialSpark and Freelance developer.
+Software Development Engineer at TrialSpark and Freelance developer.
 
 ## My Projects
 
