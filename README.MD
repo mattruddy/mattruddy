@@ -57,7 +57,6 @@ DeArt
 <td>
 <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"></img>
 <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"></img>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black"></img>
 <img src="https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white"></img>
@@ -83,6 +82,30 @@ Created a map for viewing country borders throughout history. Integrated with Ma
 <a href="https://www.reddit.com/r/dataisbeautiful/comments/l52krh/an_app_i_made_for_visualizing_country_borders/">29k Upvotes on Reddit</a>
 </td>
 </tr>
+  <td>
+  
+  <a href="https://snipdown.vercel.app/">
+    <img width="1193" alt="image" src="https://user-images.githubusercontent.com/30830407/161381872-8a1a14b6-46c7-40fa-a782-d64ae2cd3fac.png">
+</a>
+</td>
+<tr>
+  
+  <tr>
+    <td>
+      <a href="https://github.com/nrgapple/snipdown">Snipdown</a>
+      </td>
+    </tr>
+  <tr>
+  <td>
+    <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"></img>
+    <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"></img>
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Serverless application which links with your github allowing you to create gists in a markdown editor. They can then be shared via a sharable link or exported as a PNG / SVG file.
+</td>
+  </tr>
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mattruddy"></img>
