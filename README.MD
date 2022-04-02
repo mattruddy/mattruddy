@@ -25,7 +25,7 @@ Software Development Engineer at TrialSpark and Freelance developer.
 <td>
   <a href="https://www.referican.com/">
 Referican
-  </a>. (I do not own this app but did build it)
+  </a> <strong>*I do not own this app but did build it</strong>
 <td>
 <a href="https://github.com/nrgapple/historicborders-blitz">
   Historic Borders
