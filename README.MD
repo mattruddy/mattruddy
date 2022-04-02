@@ -1,4 +1,4 @@
-## I'm Matt Ruddy
+## Matt Ruddy
 
 <a href="https://www.linkedin.com/in/matthew-r-452860179/"><img src="https://img.shields.io/badge/LinkedIn-mattruddy-0077B5?style=flat&logo=linkedin&logoColor=white"></img></a>
 
