@@ -12,14 +12,12 @@ Software Development Engineer at TrialSpark and Freelance developer.
 <tr>
 <td>
 <a href="https://www.referican.com/">
-<img src="https://user-images.githubusercontent.com/30830407/157583210-e587cc70-3d60-4c56-ac5e-fc70e73ecd83.png">
-</img>
+<img width="1006" alt="image" src="https://user-images.githubusercontent.com/30830407/161382340-b4bf396f-c366-4d9b-818c-110ecf0194b9.png">
 </a>
 </td>
 <td>
 <a href="https://historicborders.app">
-<img src="https://i.imgur.com/yDcFDvT.png">
-</img>
+  <img width="985" alt="image" src="https://user-images.githubusercontent.com/30830407/161382306-6343c4d1-d98b-4fe2-acce-f6cc1a3485ed.png">
 </a>
 </td>
 </tr>
@@ -63,13 +61,12 @@ Created a map for viewing country borders throughout history. Integrated with Ma
   <td>
   
   <a href="https://snipdown.vercel.app/">
-    <img width="1193" alt="image" src="https://user-images.githubusercontent.com/30830407/161381872-8a1a14b6-46c7-40fa-a782-d64ae2cd3fac.png">
+    <img width="988" alt="image" src="https://user-images.githubusercontent.com/30830407/161382269-9ef333af-d583-41ef-9251-d6609fb84538.png">
 </a>
 </td>
 <td>
 <a href="https://deart.vercel.app/">
-<img src="https://user-images.githubusercontent.com/30830407/157583086-d664c8f6-0435-474d-a752-3b6741b0171d.png">
-</img>
+  <img width="987" alt="image" src="https://user-images.githubusercontent.com/30830407/161382253-b0c63b30-9540-4349-9755-3978e9567eb9.png">
 </a>
 </td>
 <tr>
