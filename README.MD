@@ -76,7 +76,7 @@ DeArt
   Built an application for connecting FAANG employees with potential candidates. Referican is a full fledge social media platform with real time chat, job posting feed, rating system and company verification. It's an unbios way to refer candidates as the names are hashed and private until the resume handoff.
 </td>
   <td>
-Developed a Full-Stack decentralized application which uses a deployed ERC721 smart contract to create NFT’s which store image files in webP format.
+Developed a Full-Stack decentralized application which uses a deployed ERC721 smart contract to create NFT’s which store image files in webP format. It's a cool idea until you actually create the NFT and realized how expensive transactions are on the ethereum network.
 </td>
 <td>
 Created a map for viewing country borders throughout history. Integrated with Mapbox and React Globe. Over 100 stars on Github.
